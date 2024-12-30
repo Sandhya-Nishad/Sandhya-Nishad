@@ -1,4 +1,5 @@
-## Hi there 👋
+# 👋 Hi, I'm Sandhya
+I'm a **Web Developer** specializing in **HTML**, **CSS**, **JavaScript**, and currently exploring **MERN Stack**. I love building scalable, efficient web applications and learning new technologies.
 
 
 <div align="center">
